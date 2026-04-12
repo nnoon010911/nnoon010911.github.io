@@ -20,7 +20,7 @@ Git 用来管理本地项目版本，GitHub 用来保存远程仓库。
 `git status`  
 `git add .`  
 `git commit -m "本次修改说明"`  
-`git push`
+`git push origin main`
 
 含义：
 
@@ -42,7 +42,7 @@ Git 用来管理本地项目版本，GitHub 用来保存远程仓库。
 
 `git add .`  
 `git commit -m "更新说明"`  
-`git push`
+`git push origin main`
 
 ---
 
