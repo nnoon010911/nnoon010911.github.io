@@ -4,9 +4,9 @@ type: 知识
 tags:
   - 软件
 date created: 2026-04-12 23:56:20
-modify: 2026-04-13 00:28:30
+modify: 2026-04-13 01:16:15
 ---
-## Zotero各插件功能说明
+# Zotero各插件功能说明
 
 ## 1. Easier Citation
 
